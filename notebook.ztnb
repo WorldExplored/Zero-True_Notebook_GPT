@@ -14,7 +14,7 @@ from zero_true import TextInput, Slider, Button, Text, Layout, Row, Column
 import openai
 
 # Configure OpenAI with your API key
-OPENAI_API_KEY = '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'
+OPENAI_API_KEY = 'BLANK'
 openai.api_key = OPENAI_API_KEY
 
 
@@ -68,7 +68,7 @@ code = """
 import openai
 
 # Configure OpenAI with your API key
-OPENAI_API_KEY = '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'
+OPENAI_API_KEY = 'BLANK'
 openai.api_key = OPENAI_API_KEY
 
 
