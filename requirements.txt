@@ -1,2 +1,2 @@
 zero-true==0.0.dev64
-openai==1.13.3
+openai==0.28.0
