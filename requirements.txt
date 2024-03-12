@@ -1,4 +1,2 @@
 zero-true==0.0.dev64
-plotly==5.19.0
-matplotlib==3.8.3
 openai==1.13.3
